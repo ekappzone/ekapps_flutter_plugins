@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class DrawerPAge extends StatelessWidget {
-  const DrawerPAge({super.key});
+class EK_DrawerPage extends StatelessWidget {
+  const EK_DrawerPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -9,7 +9,7 @@ class DrawerPAge extends StatelessWidget {
     return Drawer(
       child: Container(
         decoration:
-        const BoxDecoration(color: Color.fromARGB(231, 255, 203, 112)),
+            const BoxDecoration(color: Color.fromARGB(231, 255, 203, 112)),
         child: ListView(
           padding: EdgeInsets.zero,
           children: <Widget>[
