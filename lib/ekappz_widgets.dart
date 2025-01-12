@@ -1,4 +1,4 @@
-library ekaapps_flutter_plugins;
+library ekapps_flutter_plugins;
 
 export 'widgets/ekappz_bannerAd_widget.dart';
 export 'widgets/ekappz_drawer.dart';
