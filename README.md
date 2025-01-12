@@ -1,5 +1,14 @@
 # ekapps_flutter_plugins
 Ekappzone plugin repository
+how to install : add this code line to your pubspec.yaml
+  
+  {
+  ekapps_flutter_plugins:
+    git:
+      url: https://github.com/ekappzone/ekapps_flutter_plugins.git
+      ref: main
+      }
+      
 # Hi there, I'm ekappzone! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves working on innovative projects and learning new technologies.
