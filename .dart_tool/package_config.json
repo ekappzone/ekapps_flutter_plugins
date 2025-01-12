@@ -86,13 +86,13 @@
       "languageVersion": "3.5"
     },
     {
-      "name": "ekaapps_flutter_plugins",
+      "name": "ekapps_flutter_plugins",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-01-12T05:14:19.422847Z",
+  "generated": "2025-01-12T06:21:42.460082Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///C:/SDK/Flutter",
