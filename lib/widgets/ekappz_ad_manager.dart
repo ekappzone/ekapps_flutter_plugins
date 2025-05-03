@@ -26,12 +26,12 @@ class EkappzAdManager {
 
   /// Initialize Google Mobile Ads and set Ad Unit IDs
   static void initialize({
-    required String androidBannerId,
-    required String iosBannerId,
-    required String androidInterstitialId,
-    required String iosInterstitialId,
-    required String androidRewardedId,
-    required String iosRewardedId,
+     String androidBannerId,
+     String iosBannerId,
+     String androidInterstitialId,
+     String iosInterstitialId,
+     String androidRewardedId,
+     String iosRewardedId,
   }) {
     MobileAds.instance.initialize();
 
