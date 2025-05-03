@@ -2,7 +2,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
-class AdManager {
+class EkappzAdManager {
   // Static ad instances
   static BannerAd? bannerAd;
   static InterstitialAd? interstitialAd;
