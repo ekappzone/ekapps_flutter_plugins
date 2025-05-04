@@ -9,9 +9,9 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
+      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "flutter",
@@ -21,7 +21,7 @@
     },
     {
       "name": "google_mobile_ads",
-      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/google_mobile_ads-5.2.0",
+      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/google_mobile_ads-5.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -63,25 +63,25 @@
     },
     {
       "name": "webview_flutter",
-      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter-4.9.0",
+      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter-4.11.0",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.6"
     },
     {
       "name": "webview_flutter_android",
-      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_android-3.16.9",
+      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_android-4.4.2",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.6"
     },
     {
       "name": "webview_flutter_platform_interface",
-      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_platform_interface-2.10.0",
+      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_platform_interface-2.11.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "webview_flutter_wkwebview",
-      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_wkwebview-3.17.0",
+      "rootUri": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_wkwebview-3.20.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -92,10 +92,10 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-01-12T07:55:04.830315Z",
+  "generated": "2025-05-04T09:30:35.993226Z",
   "generator": "pub",
-  "generatorVersion": "3.5.4",
+  "generatorVersion": "3.6.1",
   "flutterRoot": "file:///C:/SDK/Flutter",
-  "flutterVersion": "3.24.5",
+  "flutterVersion": "3.27.3",
   "pubCache": "file:///C:/Users/Ranga/AppData/Local/Pub/Cache"
 }
