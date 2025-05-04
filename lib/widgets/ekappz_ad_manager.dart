@@ -59,16 +59,16 @@ class EkappzAdManager {
 
   /// Initializes the ad manager and loads all ad types.
   static void initialize({
-    required String androidBannerId,
-    required String iosBannerId,
-    required String androidInterstitialId,
-    required String iosInterstitialId,
-    required String androidRewardedId,
-    required String iosRewardedId,
-    required String androidAppOpenId,
-    required String iosAppOpenId,
-    required String androidNativeId,
-    required String iosNativeId,
+    String androidBannerId = "",
+    String iosBannerId = "",
+    String androidInterstitialId = "",
+    String iosInterstitialId = "",
+    String androidRewardedId = "",
+    String iosRewardedId = "",
+    String androidAppOpenId = "",
+    String iosAppOpenId = "",
+    String androidNativeId = "",
+    String iosNativeId = "",
   }) {
     MobileAds.instance.initialize();
 
